@@ -15,6 +15,10 @@ This is a sample app showing a usage of the react-firebaseui package in a react 
     ```bash
     npm install -g firebase-tools
     ```
+1. Login to firebase
+    ```bash
+    firebase login
+    ```
 1. Tell Firebase to use your new project locally:
     ```bash
     firebase use --add
